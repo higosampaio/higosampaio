@@ -1,10 +1,11 @@
 ### Hi, I'm Higo!
 
-I have been working with web development since 2012 and over time I had opportunities to learn as a developer and tech lead. Today I’m working on the Pulse engineering team, with the responsibility of promoting and maintaining architectural standards for front-end teams. Currently I focus my studies on JavaScript specifications and some frameworks.
+I have been working with front-end development since 2012. I have experience and interest in: React.js, ES6+ (JavaScript), HTML/CSS Frameworks, Modern CSS, Design System, Web Components, Agile Methodologies.
 
-In my free time I like being with family 👪, playing sports ⚽, traveling 🏖️, enjoying good music 🎵and good food 🍤.
+Today I am part of the Engineering and Architecture team of the largest food retailer in Brazil. I have a responsibility to promote and maintain architectural standards for front-end teams.
 
-I learned that we are in a constantly changing market and we need to respond to that more than following a plan.
+github.com/higosampaio
+hglbsm@gmail.com 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higosampaio)](https://www.linkedin.com/in/higosampaio)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/higosampaio_)](https://twitter.com/higosampaio_)
