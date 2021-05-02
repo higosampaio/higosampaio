@@ -1,4 +1,4 @@
-### Hi, I'm Higo!
+### Hi, I'm Higo! 👋
 
 I have been working with front-end development since 2012. I have experience and interest in: React.js, ES6+ (JavaScript), HTML/CSS Frameworks, Modern CSS, Design System, Web Components, Agile Methodologies.
 
