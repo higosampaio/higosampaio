@@ -1,4 +1,4 @@
-### Hi, I'm Higo! 👋
+### Hi there! 👋
 
 Collaborating with high-impact front-end solutions to customers around the world.
 
