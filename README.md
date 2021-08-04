@@ -1,6 +1,7 @@
 ### Hi, I'm Higo! 👋
 
 Collaborating with high-impact front-end solutions to customers around the world.
+
 Part of a team that revolutionizes the digital payments market in the Americas and Europe.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higosampaio)](https://www.linkedin.com/in/higosampaio)
