@@ -6,7 +6,7 @@ Part of a team that revolutionizes the digital payments market in the Americas a
 
 <div>
   <a href="https://github.com/higosampaio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higosampaio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higosampaio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
