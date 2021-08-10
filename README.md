@@ -4,8 +4,6 @@ Collaborating with high-impact front-end solutions to customers around the world
 
 Part of a team that revolutionizes the digital payments market in the Americas and Europe.
 
-Cheers! ☕
-
 <div>
   <a href="https://github.com/higosampaio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higosampaio&layout=compact&langs_count=7&theme=dracula"/>
