@@ -3,19 +3,19 @@
 Collaborating with high-impact front-end solutions to customers around the world.
 
 Part of a team that revolutionizes the digital payments market in the Americas and Europe.
-
+<!-- 
 <div>
   <a href="https://github.com/higosampaio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higosampaio&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
 
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+</div> -->
 
 ##
   
