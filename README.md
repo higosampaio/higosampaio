@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! 👋
 
 Senior Front-end Developer @ Compasso UOL.
 
@@ -9,3 +9,5 @@ Senior Front-end Developer @ Compasso UOL.
 Collaborating with high-impact front-end solutions around the world.
 
 Part of a team that revolutionizes the digital payments market in the Americas and Europe.
+
+Cheers! ☕
