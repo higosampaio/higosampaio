@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Frontend Software Engineer @ Compass.uol
+Senior Frontend Developer @ Compass.uol
 
 [![Linkedin Badge](https://img.shields.io/badge/-Higo%20Sampaio-1976D2?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/higosampaio/)](https://linkedin.com/in/higosampaio/) 
 [![Twitter Badge](https://img.shields.io/badge/-@higosampaio__-1976D2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/higosampaio_)](https://twitter.com/higosampaio_) 
