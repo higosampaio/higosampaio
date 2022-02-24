@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hey there! 👋
 
 Senior Frontend Developer @ Compass.uol
 
